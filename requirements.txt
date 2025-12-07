@@ -1,1 +1,6 @@
-tensorflow opencv-python numpy matplotlib pillow
+tensorflow==2.10.0
+opencv-python==4.7.0.72
+numpy==1.24.3
+matplotlib==3.7.1
+pillow==9.5.0
+scikit-learn==1.2.2
